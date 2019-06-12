@@ -1,0 +1,25 @@
+.body{
+    background-color: blueviolet;
+    font-family: 'Righteous', cursive;
+    font-family: 'Permanent Marker', cursive;
+}
+
+
+.main-nav__items{
+    display: inline;
+    padding: 10px;
+    color: red;
+    background-color: skyblue;
+    width: 100%;
+    height: 20px;
+    font-family: 'Righteous', cursive;
+    border-radius: 200px;
+    list-style-type: none;
+
+}
+
+ul {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+} 
